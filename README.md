@@ -1,5 +1,9 @@
 ## 👋 Hi! I'm Juan Rebolledo
 
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=juanRebolledo&label=Profile%20views&color=0e75b6&style=flat" alt="Ju4nre" /> 
+</p>
+
 ### Tools 
 <p align="left">
     <img title="Git" alt="Git" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />&nbsp;&nbsp;
